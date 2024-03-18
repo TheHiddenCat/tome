@@ -13,6 +13,7 @@ const rail = ref(true);
     :rail="rail"
     permanent
     color="black"
+    width="170"
   >
     <v-list-item class="text-center" nav>
       <v-icon>mdi-book-open-page-variant</v-icon>
